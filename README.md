@@ -1,1 +1,32 @@
-# Orange_Analyst
+nom: KOUENDA ONGLA
+prenom: SERGE JUNIOR
+
+
+LIBRAIRIES UTILISES:
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.cluster import KMeans
+from sklearn.preprocessing import StandardScaler
+from sklearn.decomposition import PCA
+from sklearn.preprocessing import LabelEncoder
+
+Resumes de mes observations:
+
+ANALYSE DU DATASET
+VISUALTION APROFONDIES DES VARIABLES
+CLUSTERING
+INTERPRETATION DU CLUSTERING
+RECOMMANDTIONS ET STRATEGIES
+
+RECOMMANDATIONS BUSINESS:
+
+-AMELIORER LES OFFRES SMS ET APPELS SUR LES PLUS AGES DE >40
+-APPLIQUEZ DE MEILLEURS OFFRES INTERNETS SUR LES >30 ET >55
+- LES FORFAITS APPELS DOIVENT AVOIR UNE LIASION AVEC LES FORFAITS SMS 
+- VALORISER PLUS LES FORFAIT PREPAYE
+
+CE QU'ON POURRAIT AJOUTER AVEC LE TEMPS:
+AJOUTEZ DES FORFAITS INTERNETS RELIES AU APPELS ET SMS
